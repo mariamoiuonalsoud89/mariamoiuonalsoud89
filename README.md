@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @mariamoiuonalsoud89
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mariamoiuonalsoud89/mariamoiuonalsoud89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Computer Science & Artificial Intelligence at MTI university.
+- 💞️ I’m collaborating on GDSC MTI university.
+- 📫 You can connect with me through my LinkedIn account: https://www.linkedin.com/in/maryam-oyoun-alsoud-875217242/ .
